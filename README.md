@@ -1,9 +1,6 @@
-# BURGERS
+# BURGER HOUSE
 
 <img src="./assets/screenshot/Burgers.jpeg" alt="screenshot" />
-
-## Описание
-...
 
 ## Stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)

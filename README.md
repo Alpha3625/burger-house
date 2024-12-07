@@ -1,6 +1,6 @@
 # BURGER HOUSE
 
-<img src="" width="100%" height="100%" alt="screenshot" />
+<img src="https://github.com/user-attachments/assets/992a88d8-1fcb-41bd-9a49-0f9a5a87405d" width="100%" height="100%">
 
 ## Stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)

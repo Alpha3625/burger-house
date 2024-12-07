@@ -1,6 +1,6 @@
 # BURGER HOUSE
 
-<img src="./assets/screenshot/burger-house.jpeg" alt="screenshot" />
+<img src="" width="100%" height="100%" alt="screenshot" />
 
 ## Stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)

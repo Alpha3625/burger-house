@@ -42,11 +42,3 @@ button {
   background: none;
   border: none;
 }
-
-@media (hover: none) { /* Для устройств, где hover не поддерживается */  
-  :hover {  
-      background: none;  
-      color: inherit;  
-      border: none;
-  }  
-}
